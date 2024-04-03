@@ -1,0 +1,49 @@
+==============
+MALHA REGIONAL:
+https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html
+https://geoftp.ibge.gov.br/cartas_e_mapas/bases_cartograficas_continuas/bcim/versao2016/geopackage/
+
+============================================================
+TEMPERATURE: https://www.worldclim.org/data/worldclim21.html
+RESOLUTION: 30s
+1- Temperatura Média Anual (Bio01): A temperatura média durante todo o ano, calculada a partir dos registros de temperatura diários.
+2- Diferença de Temperatura Diária Média (Bio02): A variação média diária entre as temperaturas máximas e mínimas.
+3- Intervalo Térmico Anual (Bio03): A diferença entre a temperatura média do mês mais quente e a temperatura média do mês mais frio.
+4- Temperatura Máxima do Mês Mais Quente (Bio04): A temperatura máxima média registrada durante o mês mais quente.
+5- Temperatura Mínima do Mês Mais Frio (Bio05): A temperatura mínima média registrada durante o mês mais frio.
+6- Temperatura do Trimestre Mais Frio (Bio06): A média das temperaturas mínimas dos três meses mais frios.
+7- Temperatura do Trimestre Mais Quente (Bio07): A média das temperaturas máximas dos três meses mais quentes.
+8 - Precipitação Total Anual (Bio08): A quantidade total de precipitação ao longo de um ano.
+9- Precipitação do Mês Mais Seco (Bio09): A quantidade média de precipitação registrada no mês mais seco.
+10- Precipitação do Mês Mais Úmido (Bio10): A quantidade média de precipitação registrada no mês mais úmido.
+11- Precipitação do Trimestre Mais Seco (Bio11): A média das precipitações nos três meses mais secos.
+12- Precipitação do Trimestre Mais Úmido (Bio12): A média das precipitações nos três meses mais úmidos.
+13- Índice de Aridez (Bio13): Calculado como a razão entre a precipitação e a evapotranspiração potencial. Fornece uma medida da aridez do clima.
+14- Índice de Umidade (Bio14): Calculado como a razão entre a precipitação e a evapotranspiração potencial. Fornece uma medida da umidade do clima.
+15- Dias Chuvosos (Bio15): O número médio de dias com precipitação igual ou superior a 1 mm ao longo do ano.
+16- Dias de Chuva de Inverno (Bio16): O número médio de dias com precipitação igual ou superior a 1 mm durante o trimestre mais frio.
+17- Dias de Chuva de Verão (Bio17): O número médio de dias com precipitação igual ou superior a 1 mm durante o trimestre mais quente.
+18- Dias de Neve (Bio18): O número médio de dias com precipitação na forma de neve ao longo do ano.
+19- Dias de Geadas (Bio19): O número médio de dias com temperaturas abaixo de 0°C ao longo do ano.
+
+==============================================
+TOPOGRAFIA: https://www.earthenv.org/topography
+Continuous variables
+- Elevation
+- Tangente curvatura
+
+======================================================
+VEGETACAO: https://www.earthenv.org/landcover
+Full Version 1.0 (with DISCover)
+- Evergreen Broadleaf Trees
+- Deciduous Broadleaf Trees
+- Mixed/Other Trees
+- Shrubs
+- Herbaceous Vegetation
+- Cultivated and Managed Vegetation
+- Regularly Flooded Vegetation
+
+- Evergreen/Deciduous Needleleaf Trees (Ignorados: Ocorrência somente no hemisfério norte)
+- Urban/Built-up (Ignorados)
+- Snow/Ice (Ignorados)
+======================================================
